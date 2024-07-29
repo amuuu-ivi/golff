@@ -1,0 +1,240 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.menu{
+    background-color:#3a6039;
+    height: 80px;
+    margin: 10px;
+}
+
+header{
+    text-align: center;
+}
+
+.logo-titre{
+    display: inline-flex;
+    align-items: center;
+}
+
+.logo {
+    margin-right: 10px;
+    object-fit: cover;
+}
+
+.titre {
+    font-size: 24px;
+    margin: 0;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+ul li a{
+    color: #fff;
+    letter-spacing: 0.1rem;
+}
+ul li a:hover{
+    color: #9bd5b2;
+    text-decoration: underline;
+}
+.menu li{
+    float: left;
+    padding: 35px;
+}
+.menu li a{
+    text-decoration: none;
+}
+form{
+    padding: 35px;
+    text-align: right;
+}
+input[type="search"]{
+    font-size: 17px;
+}
+
+.petitpara{
+    width:500px;
+}
+.petitpara{
+    color: #3a6039;
+    text-align: left;
+     background-size: 300px;
+  width: 400px;
+  height: 405px;
+}
+
+.container {
+    max-height: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}
+
+.container h2 {
+    margin-bottom: 10px;
+}
+
+.container p {
+    line-height: 1.4;
+}
+
+
+#rond {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    float: left;
+    shape-outside: content-box;
+}
+
+.blbl {
+    max-height: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}
+
+.blbl h2 {
+    margin-bottom: 10px;
+}
+
+.blbl p {
+    line-height: 1.4;
+}
+
+.sara {
+    max-height: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}
+
+.sara h2 {
+    margin-bottom: 10px;
+}
+
+.sara p {
+    line-height: 1.4;
+}
+
+.manel {
+    max-height: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}
+
+.manel h2 {
+    margin-bottom: 10px;
+}
+
+.manel p {
+    line-height: 1.4;
+} 
+
+.ui {
+    max-height: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}
+
+.ui h2 {
+    margin-bottom: 10px;
+}
+
+.ui p {
+    line-height: 1.4;
+}
+
+.lien {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    float: left;
+    shape-outside: content-box;
+}
+.lien {
+    max-height: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}
+
+.lien h2 {
+    margin-bottom: 10px;
+}
+
+.lien p {
+    line-height: 1.4;
+}
+
+.blbl p {
+    color:black;
+  height: auto;
+  text-align: center;
+}
+
+.blbl h3 {
+    text-align: center;
+}
+
+h1 {
+   font-family: Helvetica, sans-serif;
+   color: #3a6039;
+}
+
+.solution  {
+/*    width: 800px;*/
+    margin-left: auto;
+    margin-right: auto;
+}
+.slogan {
+    background-image: url("Download premium psd _ image of Environment Background green watercolor psd with leaf border illustration by Adjima about background, green backgrounds, watercolor backgrounds, green, and watercolor background gree.jpg");
+}
+
+.slogan h2 {
+    text-shadow: 2px 2px 3px white;
+    font-size: 50px;
+    text-align: center;
+}
+ 
+body {
+    background-color: #e2ffd6;
+}
+
+.gauche {
+    align-items: flex-start;
+    margin:40px 0;
+    display: flex;
+
+}
+#eau
+{
+    width: 500px;
+    margin-left: 200px;
+}
+img{
+
+    width:300px;
+    height: 300px;
+    margin-left: 215px ;
+}
+
+ .rounded-image {
+            width: 300px; 
+            height: auto;
+            border-radius: 15px; 
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+        }
